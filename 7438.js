@@ -628,7 +628,7 @@ function anim_7438()
             <ellipse cx="1037.53" cy="487.29" rx="3.07" ry="2.5" transform="translate(-99.76 344.13) rotate(-17.98)" fill="#fff" stroke-width="0"/>
           </g>
           <g id="radianceBtn1">
-            <image width="892" height="312" transform="translate(243.59 381.88)" xlink:href="../img/radiance1.png"/>
+            <image width="892" height="312" transform="translate(243.59 381.88)" xlink:href="https://dfrnc.github.io/7438_Bigpig_lights/img/radiance1.png"/>
           </g>
           <g id="grWBtn1">
             <path d="m712.53,641.14l.05.08-.5.29c-.35.25-.72.45-1.1.62l-67.44,38.09c-1.38.7-3.05.82-4.85.19-4.78-1.66-8.66-7.94-8.66-14.02,0-2.99.94-5.38,2.47-6.83.01-.02.02-.03.04-.03l2.35-1.34,66.13-37.48h.01c1.49-1.01,3.38-1.27,5.44-.55,4.79,1.67,8.66,7.95,8.66,14.03,0,3.07-.99,5.51-2.6,6.95Z" fill="url(#_Градієнт_без_назви_33)" mix-blend-mode="hard-light" opacity=".75" stroke-width="0"/>
@@ -760,7 +760,7 @@ function anim_7438()
             <ellipse cx="1021.54" cy="483.92" rx="3.07" ry="2.5" transform="translate(-99.5 339.03) rotate(-17.98)" fill="#af33ff" stroke-width="0"/>
           </g>
           <g id="radianceBtn2">
-            <image width="847" height="296" transform="translate(242.43 381.73) scale(1.05 1)" xlink:href="../img/radiance2.png"/>
+            <image width="847" height="296" transform="translate(242.43 381.73) scale(1.05 1)" xlink:href="https://dfrnc.github.io/7438_Bigpig_lights/img/radiance2.png"/>
           </g>
           <g id="diamondBtn2">
             <path d="m1000.93,285.26l-9.15,21.55c3.21,6.71,6.42,13.43,9.63,20.14,3.15-6.71,6.31-13.43,9.46-20.14l-9.94-21.55Z" fill="#af33ff" stroke-width="0"/>
@@ -952,7 +952,7 @@ function anim_7438()
             </g>
           </g>
           <g id="radianceBtn3">
-            <image width="847" height="296" transform="translate(250.67 376.26) scale(1.04 1)" xlink:href="../img/radiance3.png"/>
+            <image width="847" height="296" transform="translate(250.67 376.26) scale(1.04 1)" xlink:href="https://dfrnc.github.io/7438_Bigpig_lights/img/radiance3.png"/>
           </g>
           <g id="diamondBtn3">
             <path d="m1000.93,285.26l-9.15,21.55c3.21,6.71,6.42,13.43,9.63,20.14,3.15-6.71,6.31-13.43,9.46-20.14l-9.94-21.55Z" fill="#ff3364" stroke-width="0"/>
@@ -1168,7 +1168,7 @@ function anim_7438()
             <ellipse cx="1037.53" cy="487.29" rx="3.07" ry="2.5" transform="translate(-99.76 344.13) rotate(-17.98)" fill="#fff" stroke-width="0"/>
           </g>
           <g id="radianceBtn4">
-            <image width="847" height="296" transform="translate(246.11 371.79) scale(1.06 1)" xlink:href="../img/radiance4.png"/>
+            <image width="847" height="296" transform="translate(246.11 371.79) scale(1.06 1)" xlink:href="https://dfrnc.github.io/7438_Bigpig_lights/img/radiance4.png"/>
           </g>
           <g id="diamondBtn4">
             <path d="m1000.93,285.26l-9.15,21.55c3.21,6.71,6.42,13.43,9.63,20.14,3.15-6.71,6.31-13.43,9.46-20.14l-9.94-21.55Z" fill="#ff3364" stroke-width="0"/>
@@ -1354,7 +1354,7 @@ function anim_7438()
             <ellipse cx="1069.52" cy="494.02" rx="3.07" ry="2.5" transform="translate(-100.27 354.34) rotate(-17.98)" fill="#fff" stroke-width="0"/>
           </g>
           <g id="radianceBtn5">
-            <image width="847" height="296" transform="translate(238.71 376.47) scale(1.07 1)" xlink:href="../img/radiance5.png"/>
+            <image width="847" height="296" transform="translate(238.71 376.47) scale(1.07 1)" xlink:href="https://dfrnc.github.io/7438_Bigpig_lights/img/radiance5.png"/>
           </g>
           <g id="diamondBtn5">
             <path d="m1000.93,285.26l-9.15,21.55c3.21,6.71,6.42,13.43,9.63,20.14,3.15-6.71,6.31-13.43,9.46-20.14l-9.94-21.55Z" fill="#fff" stroke-width="0"/>
